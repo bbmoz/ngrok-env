@@ -1,0 +1,10 @@
+region: us
+console_ui: false
+update: false
+update_channel: stable
+web_addr: localhost:4040
+
+tunnels:
+  app:
+    proto: http
+    addr: 8080
