@@ -4,8 +4,8 @@
 
 ## Task
 
-Run `./tunnel.sh` to store the forwarded address to **tunnel.env**.
+Run `./run.sh start` to start the tunnel and store the forwarded address to **tunnel.env** which is sourcable.
 
 ## Config
 
-1. Modify **tunnel.yml** with ngrok [settings](https://ngrok.com/docs#config-examples).
+Modify **tunnel.yml** with ngrok [settings](https://ngrok.com/docs#config-examples).
